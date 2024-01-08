@@ -50,7 +50,6 @@ function App() {
 
         <div>
             <Headind>Cotiza Criptomonedas al Instante</Headind>
-
             <Formulario />
         </div>
 
